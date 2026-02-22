@@ -28,7 +28,7 @@ Some packages are still forthcoming.  The included packages are ticked.
 - [x] eigen
 - [x] fcollada
 - [x] ffmpeg
-- [ ] fmodex
+- [x] fmodex
 - [x] freetype
 - [x] harfbuzz
 - [x] jpeg
